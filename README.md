@@ -74,23 +74,23 @@ I genuinely enjoy coding and building apps.
   <summary>🧑🏽‍💻🚀 Featured Projects</summary>
   
 ### 💻 Interactive City Dashboard
-An interactive Dash application with mapping, population charts, wiki api integration, themes, and multiple layouts. Fully tested with Pytest.
-🔗 **Repository** https://github.com/reory/Interactive-City-Dashboard
-**Tech used:** Dash, Flask, Plotly, API's UI/UX, data visualisation
+An interactive Dash application with mapping, population charts, wikipedia API integration, themes, and multiple layouts. Fully tested with Pytest.
+🔗 **Repository:** https://github.com/reory/Interactive-City-Dashboard
+**Tech used:** Dash, Flask, Plotly, APIs UI/UX, data visualisation
 
 ### 🩺 Health Tracker App
 A Flet based health and medication tracker with reminders, scheduling, and persistent storage using SQLite and JSON. Fully tested with Pytest.
-🔗 **Repository** https://github.com/reory/Health-Tracker-App
+🔗 **Repository:** https://github.com/reory/Health-Tracker-App
 **Tech used:** Flet, SQLite, JSON, Pytest, UI/UX design
 
 ### 📻 Internet Radio (Python)
 A sleek CustomTkinter radio player powered by a VLC component, integrated with search, flags, and live metadata.
-🔗 **Repository** https://github.com/reory/Internet-radio-python
+🔗 **Repository:** https://github.com/reory/Internet-radio-python
 **Tech used:** CustomTkinter, VLC, API Integration, UI/UX design
 
 ### 🚐 Bus App (Proof of Concept)
 A Django + Kivy transit app prototype with a mobile-friendly and ready interface, with a simulated engine.
-🔗 **Repository** https://github.com/reory/bus-app
+🔗 **Repository:** https://github.com/reory/bus-app
 **Tech used:** Django, Kivy, Mobile UI concepts
 
 </details>
@@ -145,9 +145,9 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
 - Strong attention to detail, structure, and reliability
 - Enjoy turning ideas into polished, working software
 - Always learning and always improving — that's me
-  
+
 </details>
 
 ---
 
-If you've got this far, thank you for stopping by. I am always open to collaborate, learn, and importantly grow.
+If you've got this far, thank you for stopping by. I am always open to collaborate, learn, and grow.

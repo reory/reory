@@ -37,13 +37,17 @@ I'm open to feedback and contributions.
 
 ---
 
-## 🗣️ Ask me about
+<details>  
+  <summary>🗣️ Ask me about</summary>
+  
 - Python application structure
 - Dashboards and UI frameworks
 - Data handling and storage
 - Turning ideas into working tools
 - My projects
 - Basically, ask me anything you like 😊
+
+</details>
 
 ---
 
@@ -68,8 +72,9 @@ I genuinely enjoying coding and building apps.
 
 ---
 
-## 🧑🏽‍💻🚀 Featured Projects
-
+<details>
+  <summary>🧑🏽‍💻🚀 Featured Projects</summary>
+  
 ### 💻 Interactive City Dashboard
 An interactive Dash application with mapping, population charts, wiki api integration, themes, and multiple layouts. Fully tested with Pytest.
 🔗 **Repository** https://github.com/reory/Interactive-City-Dashboard
@@ -89,6 +94,8 @@ A sleek CustomTkinter radio player powered by a VLC component, integrated with s
 A Django + Kivy transit app prototype with a mobile-friendly and ready interface, with a simulated engine.
 🔗 **Repository** https://github.com/reory/bus-app
 **Tech used:** Django, Kivy, Mobile UI concepts
+
+</details>
 
 ---
 
@@ -119,22 +126,29 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
 
 ---
 
-## 🎯 Current Focus
+<details>
+  <summary>🎯 Current Focus</summary>
+
 - Building interactive CLI tools with menus and persistent data
 - Continually learning about other libraries in Python, e.g., PyMongo and backend service patterns
 - Strengthening testing discipline with Pytest
 - Contributing to open-source projects
 - Refining UI/UX in Python apps
 
+</details>
+
 ---
 
-## 🧑🏽‍💻 About Me
+<details> 
+  <summary>🧑🏽‍💻 About Me</summary>
+
 - Python Developer with a background in logistics, data administration, and data analysis
 - Passionate about building practical , user-friendly applications.
 - Strong attention to detail, structure, and reliability
 - Enjoy turning ideas into polished, working software
 - Always learning and always improving - that's me
-
+  
+</details>
 
 ---
 

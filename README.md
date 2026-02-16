@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/reory/reory/blob/main/banner.png" alt="Roy Python Developer Banner">
+</p>
+
 ## I'm Roy 😊
 Python developer building polished apps, dashboards, and user-friendly tools.
 

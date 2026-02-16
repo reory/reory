@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/reory/reory/blob/main/banner.png" alt="Roy Python Developer Banner" width="1000" height="300">
+  <img src="https://github.com/reory/reory/blob/main/banner.png" alt="Roy Python Developer Banner" width="1350" height="250">
 </p>
-
 
 ## I'm Roy 😊
 Python developer building polished apps, dashboards, and user-friendly tools.

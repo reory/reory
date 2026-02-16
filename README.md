@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Roy
+# I'm Roy 😊
 Python developer building polished apps, dashboards, and user-friendly tools.
 
 I'm transitioning into software development after years of real-world experience in logistics, data handling, and frontline services.
@@ -82,26 +82,30 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
 
 ---
 
-## Tech Stack
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-1E88E5?style=for-the-badge)
-![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
 **Languages and Core**
-Python • SQL • JSON • HTML
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-**Frameworks and Libraries**
-CustomTkinter • Django • Dash • Flet • Kivy • NumPy • Plotly • Pandas •
+**Frameworks and UI**
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge)
+![Dash](https://img.shields.io/badge/Dash-1E88E5?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge)
+![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=kivy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Tools and Practices**
-SQLite • Pytest • Git • REST APIs • UI/UX design • Data handling
+**Data Analysis**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools and Testing**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ---
 
@@ -124,4 +128,4 @@ SQLite • Pytest • Git • REST APIs • UI/UX design • Data handling
 
 ---
 
-If you have got this far, thank you for stopping by. I am always open to collaborate, learn, and grow.
+If you have got this far, thank you for stopping by. I am always open to collaborate, learn, and importantly grow.

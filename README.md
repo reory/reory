@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# I'm Roy 😊
+## I'm Roy 😊
 Python developer building polished apps, dashboards, and user-friendly tools.
 
 I'm transitioning into software development after years of real-world experience in logistics, data handling, and frontline services.
-Now I am focusing on creating clean and reliable Python applications that solve problems with thoughtful UI design and backend solid structure.
+Now I am focusing on creating clean and reliable Python applications that solve problems with thoughtful UI design and solid backend structure.
 
 ---
 
@@ -12,12 +10,12 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 - A **Django word counter database** which is searchable, structured, and expandable
 - A **West Yorkshire Traffic Analyser** tool for monitoring collisions in West Yorkshire and understanding request patterns
 - A **Real Estate Web Scraper** tool for automatically gathering property listings from real estate websites for analysis
-- I also am continuing to refine my existing apps with better UI, structure, and robust testing
+- I am also continuing to refine my existing apps with better UI, structure, and robust testing
 
 ---
 
 ## 🌿 I'm currently learning
-- Pymongo, SQL and other backend service patterns
+- PyMongo, SQL and other backend service patterns
 - Advanced CLI design with menus and persistent data
 - Improving my testing capabilities with Pytest
 - Better UI/UX patterns in Python frameworks
@@ -32,7 +30,7 @@ If something you see on my repo does interest you, I am always happy to work tog
 
 ## 😊 I'm looking for help with
 Anything that can improve my projects - architecture, testing, UI, or performance. 
-Reach out don't be shy. 😊
+Reach out - don't be shy. 😊
 I'm open to feedback and contributions.
 
 ---
@@ -68,7 +66,7 @@ He/Him
 --
 
 ## 😊 Fun Fact
-I genuinely enjoying coding and building apps.
+I genuinely enjoy coding and building apps.
 
 ---
 
@@ -143,13 +141,13 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
   <summary>🧑🏽‍💻 About Me</summary>
 
 - Python Developer with a background in logistics, data administration, and data analysis
-- Passionate about building practical , user-friendly applications.
+- Passionate about building practical, user-friendly applications.
 - Strong attention to detail, structure, and reliability
 - Enjoy turning ideas into polished, working software
-- Always learning and always improving - that's me
+- Always learning and always improving — that's me
   
 </details>
 
 ---
 
-If you have got this far, thank you for stopping by. I am always open to collaborate, learn, and importantly grow.
+If you've got this far, thank you for stopping by. I am always open to collaborate, learn, and importantly grow.

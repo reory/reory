@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/reory/reory/blob/main/banner.png" alt="Roy Python Developer Banner">
+  <img src="https://github.com/reory/reory/blob/main/banner.png" alt="Roy Python Developer Banner" height="300">
 </p>
 
 ## I'm Roy 😊

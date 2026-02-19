@@ -12,7 +12,6 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ## 👨🏽‍🔬 I am currently working on 
 - A **Django word counter database** which is searchable, structured, and expandable
-- A **West Yorkshire Traffic Analyser** tool for monitoring collisions in West Yorkshire and understanding request patterns
 - A **Real Estate Web Scraper** tool for automatically gathering property listings from real estate websites for analysis
 - I am also continuing to refine my existing apps with better UI, structure, and robust testing
 

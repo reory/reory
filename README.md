@@ -77,7 +77,7 @@ I genuinely enjoy coding and building apps.
 <details>
   <summary>🧑🏽‍💻🚀 Featured Projects</summary>
   
-### 💻 Interactive City Dashboard
+### 🏙️ Interactive City Dashboard
 An interactive Dash application with mapping, population charts, wikipedia API integration, themes, and multiple layouts. Fully tested with Pytest.
 🔗 **Repository:** https://github.com/reory/Interactive-City-Dashboard
 **Tech used:** Dash, Flask, Plotly, APIs UI/UX, data visualisation
@@ -97,7 +97,7 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
 🔗 **Repository:** https://github.com/reory/bus-app
 **Tech used:** Django, Kivy, Mobile UI concepts
 
-### 🗺️🚗 West Yorkshire Traffic Analysis
+### 🚗 West Yorkshire Traffic Analysis
 A data‑driven traffic insights tool built with Pandas, NumPy, Folium, Matplotlib, and Reverse Geocoder, delivered through an interactive Streamlit interface. It processes regional traffic datasets, visualises accident patterns, and generates an automated PDF report for clear, actionable analysis.
 🔗 **Repository:** https://github.com/reory/west_yorkshire_traffic_analysis
 Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
@@ -125,6 +125,8 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Reverse Geocoder](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 **Tools and Testing**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

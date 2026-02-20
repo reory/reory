@@ -97,6 +97,11 @@ A Django + Kivy transit app prototype with a mobile-friendly and ready interface
 🔗 **Repository:** https://github.com/reory/bus-app
 **Tech used:** Django, Kivy, Mobile UI concepts
 
+###🚗🗺️ West Yorkshire Traffic Analysis
+A data‑driven traffic insights tool built with Pandas, NumPy, Folium, Matplotlib, and Reverse Geocoder, delivered through an interactive Streamlit interface. It processes regional traffic datasets, visualises accident patterns, and generates an automated PDF report for clear, actionable analysis.
+🔗 **Repository:** https://github.com/reory/west_yorkshire_traffic_analysis
+Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
+
 </details>
 
 ---

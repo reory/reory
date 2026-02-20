@@ -13,6 +13,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ## 👨🏽‍🔬 I am currently working on 
 - A **Django word counter database** which is searchable, structured, and expandable
 - A **Real Estate Web Scraper** tool for automatically gathering property listings from real estate websites for analysis
+- A **Invoice Fraud Detection** Service The service ingests invoice data, extracts key features, and predicts the likelihood         of fraudulent activity in real time.
 - I am also continuing to refine my existing apps with better UI, structure, and robust testing
 
 ---

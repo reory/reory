@@ -16,8 +16,14 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ---
 
-### 🛠️ Open Source Contributions
-* **[joke2k/faker](https://github.com/joke2k/faker)**: Implemented `en_GB` bank provider logic to support localized financial data generation. ([PR #2332](https://github.com/joke2k/faker/pull/2332))
+## 🤝 Open Source Contributions
+
+I believe in contributing to the tools I use. Recently, I've been contributing to **Faker**, one of the most widely used data generation libraries in Python.
+
+* **[joke2k/faker](https://github.com/joke2k/faker)**: 
+    * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
+    * **Impact:** Enabled thousands of developers to generate localized UK banking data.
+    * **Status:** [PR #2332](https://github.com/joke2k/faker/pull/2332)
 
 ---
 

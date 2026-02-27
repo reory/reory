@@ -11,7 +11,6 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on 
-- A **Invoice Fraud Detection Service** The service ingests invoice data, extracts key features, and predicts the likelihood         of fraudulent activity in real time.
 - A **UK Population Tracker Dashboard** A full analytics platform built with Django, powered by synthetic demographic               generated uaing Faker and Mimesis. The backend will use Polars for high performance population modelling, GeoPandas for       UK regional mapping and MongoDB for storing the all the data.
 - I am also continuing to refine my existing apps with better UI Design, improved structure, and  more robust testing.
 

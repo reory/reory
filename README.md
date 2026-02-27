@@ -178,7 +178,7 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 - Passionate about building practical, user-friendly applications.
 - Strong attention to detail, structure, and reliability
 - Enjoy turning ideas into polished, working software
-- Always learning and always improving — that's me
+- Always learning and always improving — that's me 😁
 
 </details>
 

@@ -79,7 +79,7 @@ I genuinely enjoy coding and building apps.
 <details>
   <summary>🧑🏽‍💻🚀 Featured Projects</summary>
 
-### Invoice Fraud Detector Service
+### 🕵🏽‍♀️ Invoice Fraud Detector Service
 An end-to-end Machine Learning microservice that detects high-risk financial transactions using XGBoost. Featuring a real-time Flask API and an interactive risk-dashboard, it demonstrates a complete AI pipeline from synthetic data generation to live visual analysis.
 🔗 **Repository:** https://github.com/reory/Invoice-Fraud-Detector-Service
 **Tech used** Faker, Pandas, scikit-learn, XGBoost, Imblearn, Flask, Pydantic, Joblib

@@ -78,6 +78,16 @@ I genuinely enjoy coding and building apps.
 
 <details>
   <summary>🧑🏽‍💻🚀 Featured Projects</summary>
+
+### Invoice Fraud Detector Service
+An end-to-end Machine Learning microservice that detects high-risk financial transactions using XGBoost. Featuring a real-time Flask API and an interactive risk-dashboard, it demonstrates a complete AI pipeline from synthetic data generation to live visual analysis.
+🔗 **Repository:** https://github.com/reory/Invoice-Fraud-Detector-Service
+**Tech used** Faker, Pandas, scikit-learn, XGBoost, Imblearn, Flask, Pydantic, Joblib
+
+### 🏠 UK Real Estate Scraper
+A specialized web scraping tool built to extract property data from highly secured UK real estate platforms. This project was a deep dive into bypassing modern anti-bot measures and handling dynamic JavaScript rendering using browser automation.
+🔗 **Repository:** https://github.com/reory/UK-Real-Estate-Scraper
+**Tech used** Selenium, Beautiful Soup4, Pydantic
   
 ### 🏙️ Interactive City Dashboard
 An interactive Dash application with mapping, population charts, wikipedia API integration, themes, and multiple layouts. Fully tested with Pytest.
@@ -123,7 +133,9 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 ![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=kivy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000)
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **Data Analysis**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)

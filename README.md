@@ -16,6 +16,12 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ---
 
+### 🛠️ Open Source Contributions
+* **[joke2k/faker](https://github.com/joke2k/faker)**: Implemented `en_GB` bank provider logic to support localized financial data generation. ([PR #2332](https://github.com/joke2k/faker/pull/2332))
+
+---
+
+
 ## 🌿 I'm currently learning
 - PyMongo, SQL and other backend service patterns
 - Advanced CLI design with menus and persistent data

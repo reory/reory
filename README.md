@@ -19,7 +19,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ## 🤝 Open Source Contributions
 
-I believe in contributing to the tools I use. Recently, I've been contributing to **Faker**, one of the most widely used data generation libraries in Python.
+I believe in contributing to the tools I use. Recently, I've contributed to the **Faker** library, one of the most widely used data generation libraries in Python.
 
 * **[joke2k/faker](https://github.com/joke2k/faker)**: 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.

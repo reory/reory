@@ -67,7 +67,7 @@ I'm open to feedback and contributions.
 You can reach me through LinkedIn or Email
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-p-74980b382/)
-[Email me](mailto:reory35@hotmail.com?subject=Hello%20Roy)
+[📧Email me](mailto:reory35@hotmail.com?subject=Hello%20Roy)
 
 ---
 

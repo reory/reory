@@ -12,6 +12,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ## 👨🏽‍🔬 I am currently working on 
 - A **NHS Waiting times and Hospital Performance Dashboard**
+- An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB analytical engine.
 - I am also continuing to refine my existing apps with better UI Design, improved structure, and  more robust testing.
 
 ---
@@ -26,7 +27,6 @@ I believe in contributing to the tools I use. Recently, I've been contributing t
     * **Status:** [PR #2332](https://github.com/joke2k/faker/pull/2332)
 
 ---
-
 
 ## 🌿 I'm currently learning
 - PyMongo, SQL and other backend service patterns

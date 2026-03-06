@@ -71,13 +71,19 @@ You can reach me through LinkedIn or Email
 
 ---
 
-## 👨🏽 Pronouns
+<details>
+  <summary>👨🏽 Pronouns</summary>
 He/Him
+
+</details>
 
 --
 
-## 😊 Fun Fact
+<details>
+  <summary>😊 Fun Fact</summary>
 I genuinely enjoy coding and building apps.
+
+</details>
 
 ---
 
@@ -122,8 +128,8 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 </details>
 
 ---
-
-## 🧰 Tech Stack
+<details>
+  <summary>🧰 Tech Stack</summary>
 
 **Languages and Core**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -154,6 +160,8 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</details>
 
 ---
 

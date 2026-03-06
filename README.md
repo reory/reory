@@ -14,6 +14,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 - A **NHS Waiting times and Hospital Performance Dashboard**
 - An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB analytical engine.
 - I am also continuing to refine my existing apps with better UI Design, improved structure, and  more robust testing.
+- I have an exisiting app that I built it's on streamlit. - [West Yorkshire Traffic Analysis](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 
 ---
 
@@ -28,24 +29,35 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
 
 ---
 
-## 🌿 I'm currently learning
+<details>
+  <summary>🌿 I'm currently learning</summary>
+  
 - PyMongo, SQL and other backend service patterns
 - Advanced CLI design with menus and persistent data
 - Improving my testing capabilities with Pytest
 - Better UI/UX patterns in Python frameworks
 
----
+</details>
 
-## 🧑🏽‍🤝‍🧑🏼 I'm looking to collaborate on
+---
+<details>
+<summary>🧑🏽‍🤝‍🧑🏼 I'm looking to collaborate on</summary>
+  
 Any of my projects - dashboards, apps, tools, or experiments
 If something you see on my repo does interest you, I am always happy to work together and grow.
 
+</details>
+
 ---
 
-## 😊 I'm looking for help with
+<details>
+  <summary>😊 I'm looking for help with</summary>
+  
 Anything that can improve my projects - architecture, testing, UI, or performance. 
 Reach out - don't be shy. 😊
 I'm open to feedback and contributions.
+
+</details>
 
 ---
 
@@ -63,11 +75,14 @@ I'm open to feedback and contributions.
 
 ---
 
-## 📧 How to reach me
+<details>
+  <summary>📧 How to reach me</summary>
 You can reach me through LinkedIn or Email
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-p-74980b382/)
 [📧Email me](mailto:reory35@hotmail.com?subject=Hello%20Roy)
+
+</details>
 
 ---
 

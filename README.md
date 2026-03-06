@@ -95,8 +95,6 @@ He/Him
 
 </details>
 
---
-
 <details>
   <summary>😊 Fun Fact</summary>
 I genuinely enjoy coding and building apps.

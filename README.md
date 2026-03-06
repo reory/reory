@@ -14,11 +14,12 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 - A **NHS Waiting times and Hospital Performance Dashboard**
 - An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB engine.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
-- (https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
+[![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 
 ---
 
-## 🤝 Open Source Contributions
+<details>
+  <summary>🤝 Open Source Contributions</summary>
 
 I believe in contributing to the tools I use. Recently, I've contributed to the **Faker** library, one of the most widely used data generation libraries in Python.
 
@@ -26,6 +27,8 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
     * **Impact:** Enabled thousands of developers to generate localized UK banking data.
     * **Status:** [PR #2332](https://github.com/joke2k/faker/pull/2332)
+
+</details>
 
 ---
 

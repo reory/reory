@@ -12,9 +12,9 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ## 👨🏽‍🔬 I am currently working on 
 - A **NHS Waiting times and Hospital Performance Dashboard**
-- An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB analytical engine.
-- I am also continuing to refine my existing apps with better UI Design, improved structure, and  more robust testing.
-- I have an exisiting app that I built it's on streamlit. - [West Yorkshire Traffic Analysis](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
+- An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB engine.
+- I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
+- (https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 
 ---
 

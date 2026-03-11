@@ -35,7 +35,7 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
 <details>
   <summary>🌿 I'm currently learning</summary>
   
-- PyMongo, SQL and other backend service patterns
+- PyMongo, MySQL and other backend service patterns
 - Advanced CLI design with menus and persistent data
 - Improving my testing capabilities with Pytest
 - Better UI/UX patterns in Python frameworks

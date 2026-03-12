@@ -26,7 +26,8 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
     * **Impact:** Enabled thousands of developers to generate localized UK banking data.
     * **Status:** [PR #2332](https://github.com/joke2k/faker/pull/2332)
-    * 
+ 
+* **[duckdb/duckdb](https://github.com/duckdb/duckdb)**:
     * **Contribution:** Identified and provided a high-fidelity reproduction suite for an OutOfRangeException
       in statistical aggregate functions (stddev, variance) when handling infinite values.
     * **Impact:** Confirmed the bug persists in v1.5.0 and identified that the try() safety wrapper is

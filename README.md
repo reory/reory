@@ -11,8 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on 
-- A **NHS Waiting times and Hospital Performance Dashboard**
-- An end-to-end Clinical Intelligence suite that monitors patient wait times and predicts RTT (Referral to Treatment) breaches using a high-performance DuckDB engine.
+- A **Geo Loan UK Predictor**
+- An interactive financial analytics dashboard that uses SciPy and Flet to predict and visualize loan risk across the UK.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 

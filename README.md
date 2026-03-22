@@ -11,8 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on 
-- A **Geo Loan UK Predictor**
-- An interactive financial analytics dashboard that uses SciPy and Flet to predict and visualize loan risk across the UK.
+- A **SaaS Finance App**
+- An interactive financial analytics dashboard that uses Django and PostgreSQL. It is a finance analytics platform designed to ingest messy real‑world bank CSVs, clean and normalise the data, and present clear financial insights through dashboards, charts, and transaction management tools.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 

@@ -36,6 +36,12 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
     * **Status:** [Issue #14373](https://github.com/duckdb/duckdb/issues/14373#issuecomment-4046371713)
       (Confirmed Reproducible)
 
+* **[Text2Flow / Pyragify](https://github.com/ThomasBury/pyragify)**
+  **Contribution:** Engineered an optimized YAML configuration for high-fidelity repository visualization.
+  **Impact:** Reduced LLM context clutter by implementing strategic file-type exclusions and optimized the RAG pipeline by scaling word-count limits for complex flowchart grammars.
+   Collaborated with AI code-review agents (CodeRabbit/Gemini) to ensure schema compliance and merged into the main branch.
+  **Status:** Merged | 🏷️ *Labels:* Enhancement
+
 </details>
 
 ---

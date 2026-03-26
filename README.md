@@ -21,27 +21,22 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 <details>
   <summary>🤝 Open Source Contributions</summary>
 
-I believe in contributing to the tools I use. Recently, I've contributed to the **Faker** library, one of the most widely used data generation libraries in Python.
+I contribute to the Python ecosystem because I believe the best way to master a tool is to help build it. I'm driven by a developer help mindset. Every PR is an opportunity to solve real-world problems for the global developer community.
+
+* **[duckdb/duckdb](https://github.com/duckdb/duckdb)**:
+    * **Contribution:** Identified and provided a high-fidelity reproduction suite for an `OutOfRangeException` in statistical aggregate functions.
+    * **Impact:** Isolated a math kernel issue where the `try()` safety wrapper was bypassed by the Binder, helping core maintainers stabilize the v1.5.0 release.
+    * **Status:** [Confirmed Bug #14373](https://github.com/duckdb/duckdb/issues/14373)
 
 * **[joke2k/faker](https://github.com/joke2k/faker)**: 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
-    * **Impact:** Enabled thousands of developers to generate localized UK banking data.
-    * **Status:** [PR #2332](https://github.com/joke2k/faker/pull/2332)
- 
-* **[duckdb/duckdb](https://github.com/duckdb/duckdb)**:
-    * **Contribution:** Identified and provided a high-fidelity reproduction suite for an OutOfRangeException
-      in statistical aggregate functions (stddev, variance) when handling infinite values.
-    * **Impact:** Confirmed the bug persists in v1.5.0 and identified that the try() safety wrapper is
-      currently bypassed/blocked by the Binder, helping core maintainers isolate the math kernel issue.
-    * **Status:** [Issue #14373](https://github.com/duckdb/duckdb/issues/14373#issuecomment-4046371713)
-      (Confirmed Reproducible)
+    * **Impact:** Enabled thousands of developers to generate localized, structurally accurate UK banking data for testing.
+    * **Status:** [Merged PR #2332](https://github.com/joke2k/faker/pull/2332)
 
-* **[Text2Flow / Pyragify](https://github.com/ThomasBury/pyragify)**
-  **Contribution:** Engineered an optimized YAML configuration for high-fidelity repository visualization.
-  **Impact:** Reduced LLM context clutter by implementing strategic file-type exclusions and optimized the RAG pipeline by scaling word-count limits for complex flowchart grammars.
-   Collaborated with AI code-review agents (CodeRabbit/Gemini) to ensure schema compliance and merged into the main branch.
-  **Status:** [Merged | 🏷️ *Labels:* Enhancement](https://github.com/ThomasBury/pyragify/issues/1#event-23948082053)
-  
+* **[ThomasBury/pyragify](https://github.com/ThomasBury/pyragify)**:
+    * **Contribution:** Engineered an optimized YAML configuration for high-fidelity repository visualization (Text2Flow).
+    * **Impact:** Reduced LLM context clutter and optimized RAG pipelines by scaling word-count limits to preserve complex flowchart grammars.
+    * **Status:** [Merged PR #2](https://github.com/ThomasBury/pyragify/pull/2)
 
 </details>
 

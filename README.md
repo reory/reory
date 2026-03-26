@@ -26,7 +26,7 @@ I contribute to the Python ecosystem because I believe the best way to master a 
 * **[duckdb/duckdb](https://github.com/duckdb/duckdb)**:
     * **Contribution:** Identified and provided a high-fidelity reproduction suite for an `OutOfRangeException` in statistical aggregate functions.
     * **Impact:** Isolated a math kernel issue where the `try()` safety wrapper was bypassed by the Binder, helping core maintainers stabilize the v1.5.0 release.
-    * **Status:** [Confirmed Bug #14373](https://github.com/duckdb/duckdb/issues/14373)
+    * **Status:** [Confirmed Bug & Investigation #14373](https://github.com/duckdb/duckdb/issues/14373)
 
 * **[joke2k/faker](https://github.com/joke2k/faker)**: 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.

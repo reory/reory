@@ -180,6 +180,7 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Reverse Geocoder](https://img.shields.io/badge/Reverse%20Geocoder-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pyragify](https://img.shields.io/badge/Pyragify-blueviolet?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ### **Automation & Testing**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)

@@ -40,7 +40,8 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
   **Contribution:** Engineered an optimized YAML configuration for high-fidelity repository visualization.
   **Impact:** Reduced LLM context clutter by implementing strategic file-type exclusions and optimized the RAG pipeline by scaling word-count limits for complex flowchart grammars.
    Collaborated with AI code-review agents (CodeRabbit/Gemini) to ensure schema compliance and merged into the main branch.
-  **Status:** Merged | 🏷️ *Labels:* Enhancement
+  **Status:** [Merged | 🏷️ *Labels:* Enhancement](https://github.com/ThomasBury/pyragify/issues/1#event-23948082053)
+  
 
 </details>
 

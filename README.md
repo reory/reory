@@ -18,7 +18,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ---
 
-# 🤝 Open Source Contributions
+<details>
+  <summary>🤝 Open Source Contributions</summary>
 
 I believe in contributing to the tools I use. Recently, I've contributed to the **Faker** library, one of the most widely used data generation libraries in Python.
 
@@ -34,6 +35,8 @@ I believe in contributing to the tools I use. Recently, I've contributed to the 
       currently bypassed/blocked by the Binder, helping core maintainers isolate the math kernel issue.
     * **Status:** [Issue #14373](https://github.com/duckdb/duckdb/issues/14373#issuecomment-4046371713)
       (Confirmed Reproducible)
+
+</details>
 
 ---
 

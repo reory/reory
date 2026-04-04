@@ -157,45 +157,52 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 <details>
   <summary>🧰 Tech Stack</summary>
 
-### **Languages and Core**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### **Languages & Core Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-60b5ff?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Click](https://img.shields.io/badge/Click-v8.0+-3DDC84?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-60b5ff?style=for-the-badge&logo=python&logoColor=white)
 
-### **Backend & Machine Learning**
+### **Data Engineering & High-Performance Computing**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Backend, APIs & Machine Learning**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pyragify](https://img.shields.io/badge/Pyragify-blueviolet?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
-
-### **Data Engineering & Analysis**
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Reverse Geocoder](https://img.shields.io/badge/Reverse%20Geocoder-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pyragify](https://img.shields.io/badge/Pyragify-blueviolet?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-### **Automation & Testing**
+### **Data Visualization & Graph Theory**
+![NetworkX](https://img.shields.io/badge/NetworkX-v3.0+-0052CC?style=for-the-badge&logo=networkx&logoColor=white)
+![PyVis](https://img.shields.io/badge/PyVis-v0.3.0+-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-1E88E5?style=for-the-badge)
+
+### **Automation, Scraping & Testing**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 ![Faker Contributor](https://img.shields.io/badge/Faker_Contributor-E37400?style=for-the-badge&logo=github&logoColor=white)
 
-### **Frameworks & UI**
-![Dash](https://img.shields.io/badge/Dash-1E88E5?style=for-the-badge)
+### **Frameworks & UI Construction**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge)
-![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=kivy&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge)
+![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=kivy&logoColor=white)
 
 </details>
 

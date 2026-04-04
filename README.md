@@ -10,8 +10,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ---
 
-## 👨🏽‍🔬 I am currently working on 
-- A **Pydescope**
+## 👨🏽‍🔬 I am currently working on
+- **Pydescope**
 - A static analysis tool designed to help developers visualize the internal structure and dependencies of their Python projects. By parsing source code and mapping imports, it generates interactive 2D/3D graphs using NetworkX and PyVis, allowing you to see how different modules interact without the clutter of virtual environments or external libraries.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)

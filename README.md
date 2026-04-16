@@ -11,8 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Pydescope**
-- A static analysis tool designed to help developers visualize the internal structure and dependencies of their Python projects. By parsing source code and mapping imports, it generates interactive 2D/3D graphs using NetworkX and PyVis, allowing you to see how different modules interact without the clutter of virtual environments or external libraries.
+- **Network Security Scanner**
+- A lightweight, cross-platform (Windows-focused) network auditing tool built with Python, KivyMD, and Scapy. This application performs ARP broadcasting to discover active devices on a local network and enriches the data with manufacturer information via MAC OUI lookup.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 
@@ -113,47 +113,6 @@ I genuinely enjoy coding and building apps.
 
 ---
 
-<details>
-  <summary>🧑🏽‍💻🚀 Featured Projects</summary>
-
-### 🕵🏽‍♀️ Invoice Fraud Detector Service
-An end-to-end Machine Learning microservice that detects high-risk financial transactions using XGBoost. Featuring a real-time Flask API and an interactive risk-dashboard, it demonstrates a complete AI pipeline from synthetic data generation to live visual analysis.
-🔗 **Repository:** https://github.com/reory/Invoice-Fraud-Detector-Service
-**Tech used** Faker, Pandas, scikit-learn, XGBoost, Imblearn, Flask, Pydantic, Joblib
-
-### 🏠 UK Real Estate Scraper
-A specialized web scraping tool built to extract property data from highly secured UK real estate platforms. This project was a deep dive into bypassing modern anti-bot measures and handling dynamic JavaScript rendering using browser automation.
-🔗 **Repository:** https://github.com/reory/UK-Real-Estate-Scraper
-**Tech used** Selenium, Beautiful Soup4, Pydantic
-  
-### 🏙️ Interactive City Dashboard
-An interactive Dash application with mapping, population charts, wikipedia API integration, themes, and multiple layouts. Fully tested with Pytest.
-🔗 **Repository:** https://github.com/reory/Interactive-City-Dashboard
-**Tech used:** Dash, Flask, Plotly, APIs UI/UX, data visualisation
-
-### 🩺 Health Tracker App
-A Flet based health and medication tracker with reminders, scheduling, and persistent storage using SQLite and JSON. Fully tested with Pytest.
-🔗 **Repository:** https://github.com/reory/Health-Tracker-App
-**Tech used:** Flet, SQLite, JSON, Pytest, UI/UX design
-
-### 📻 Internet Radio (Python)
-A sleek CustomTkinter radio player powered by a VLC component, integrated with search, flags, and live metadata.
-🔗 **Repository:** https://github.com/reory/Internet-radio-python
-**Tech used:** CustomTkinter, VLC, API Integration, UI/UX design
-
-### 🚐 Bus App (Proof of Concept)
-A Django + Kivy transit app prototype with a mobile-friendly and ready interface, with a simulated engine.
-🔗 **Repository:** https://github.com/reory/bus-app
-**Tech used:** Django, Kivy, Mobile UI concepts
-
-### 🚗 West Yorkshire Traffic Analysis
-A data‑driven traffic insights tool built with Pandas, NumPy, Folium, Matplotlib, and Reverse Geocoder, delivered through an interactive Streamlit interface. It processes regional traffic datasets, visualises accident patterns, and generates an automated PDF report for clear, actionable analysis.
-🔗 **Repository:** https://github.com/reory/west_yorkshire_traffic_analysis
-Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
-
-</details>
-
----
 <details>
   <summary>🧰 Tech Stack</summary>
 

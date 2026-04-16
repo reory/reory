@@ -176,6 +176,9 @@ Tech used: Pandas, NumPy, Matplotlib, Reverse Geocoder, Streamlit, PDF reporting
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **Network security**
+![Scapy](https://img.shields.io/badge/Scapy-Packet_Crafting-blueviolet?style=for-the-badge&logo=scapy&logoColor=white)
+
 ### **Backend, APIs & Machine Learning**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)

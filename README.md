@@ -20,7 +20,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 <details>
   <summary>🤝 Open Source Contributions</summary>
-![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-gold?style=flat-square&logo=github)
+[![GitHub Achievements](https://github-readme-stats.vercel.app/api/stats?username=[reory]&show_icons=true&theme=radical&show=achievements)](https://github.com/reory)
 
 I contribute to the Python ecosystem because...
 

@@ -38,6 +38,11 @@ I contribute to the Python ecosystem because I believe the best way to master a 
     * **Impact:** Reduced LLM context clutter and optimized RAG pipelines by scaling word-count limits to preserve complex flowchart grammars.
     * **Status:** [Merged PR #2](https://github.com/ThomasBury/pyragify/pull/2)
 
+* **[joke2k/faker](https://github.com/joke2k/faker)**:
+    * **Contribution:** Revitalized the image placeholder service by migrating from the defunct placekitten.com to the active placekittens.com provider.
+    * **Impact:** Restored functionality for millions of developers using image provider generators, preventing broken URL returns across global test suites. (I saved the kittens! 🐈‍⬛)
+    * **Status:** [Merged PR #2364](https://github.com/joke2k/faker/pull/2364)
+
 </details>
 
 ---

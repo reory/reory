@@ -20,7 +20,9 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 <details>
   <summary>🤝 Open Source Contributions</summary>
-[![GitHub Achievements](https://github-readme-stats.vercel.app/api/stats?username=reory&show_icons=true&theme=radical&hide_constellations=true)](https://github.com/reory)
+<a href="https://github.com/reory">
+  <img src="https://github-readme-stats.vercel.app/api/stats?username=reory&show_icons=true&theme=radical&show=achievements" alt="GitHub Achievements" />
+</a>
 
 I contribute to the Python ecosystem because I believe the best way to master a tool is to help build it. I'm driven by a developer help mindset. Every PR is an opportunity to solve real-world problems for the global developer community.
 

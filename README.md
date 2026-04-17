@@ -20,6 +20,9 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 <details>
   <summary>🤝 Open Source Contributions</summary>
+![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-gold?style=flat-square&logo=github)
+
+I contribute to the Python ecosystem because...
 
 I contribute to the Python ecosystem because I believe the best way to master a tool is to help build it. I'm driven by a developer help mindset. Every PR is an opportunity to solve real-world problems for the global developer community.
 

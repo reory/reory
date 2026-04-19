@@ -23,11 +23,6 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 I contribute to the Python ecosystem because I believe the best way to master a tool is to help build it. I'm driven by a developer help mindset. Every PR is an opportunity to solve real-world problems for the global developer community.
 
-* **[duckdb/duckdb](https://github.com/duckdb/duckdb)**:
-    * **Contribution:** Identified and provided a high-fidelity reproduction suite for an `OutOfRangeException` in statistical aggregate functions.
-    * **Impact:** Isolated a math kernel issue where the `try()` safety wrapper was bypassed by the Binder, helping core maintainers stabilize the v1.5.0 release.
-    * **Status:** [Confirmed Bug & Investigation #14373](https://github.com/duckdb/duckdb/issues/14373)
-
 * **[joke2k/faker](https://github.com/joke2k/faker)**: 
     * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
     * **Impact:** Enabled thousands of developers to generate localized, structurally accurate UK banking data for testing.

@@ -11,8 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Network Security Scanner**
-- A lightweight, cross-platform (Windows-focused) network auditing tool built with Python, KivyMD, and Scapy. This application performs ARP broadcasting to discover active devices on a local network and enriches the data with manufacturer information via MAC OUI lookup.
+- **Mcp-Server**
+- A lightweight Model Context Protocol (MCP) server that provides a bridge between Claude AI and a local Python environment.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my streamlit-based **West Yorkshire Traffic Analysis** project
 [![Open in Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://westyorkshiretrafficanalysis-s4uloec7gumf65rz2thpl3.streamlit.app/)
 

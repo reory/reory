@@ -191,6 +191,7 @@ I genuinely enjoy coding and building apps.
 - Passionate about building practical, user-friendly applications.
 - Strong attention to detail, structure, and reliability
 - Enjoy turning ideas into polished, working software
+- I do not use Agents I prefer to do the hard work myself so I understand a project from end to end.
 - Always learning and always improving — that's me 😁
 
 </details>

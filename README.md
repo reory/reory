@@ -13,7 +13,7 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ## 👨🏽‍🔬 I am currently working on
 - **Mcp-Server**
 - A lightweight Model Context Protocol (MCP) server that provides a bridge between Claude AI and a local Python environment.
-- I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [Rag-Library-AI](https://reory-rag-library-ai.hf.space)
+- I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 
 ---
 

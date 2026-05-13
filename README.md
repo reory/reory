@@ -157,6 +157,8 @@ I genuinely enjoy coding and building apps.
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge)
 ![Reverse Geocoder](https://img.shields.io/badge/Reverse%20Geocoder-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RQ](https://img.shields.io/badge/RQ-FF0000?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Data Visualization & Graph Theory**
 ![NetworkX](https://img.shields.io/badge/NetworkX-v3.0+-0052CC?style=for-the-badge&logo=networkx&logoColor=white)
@@ -172,6 +174,7 @@ I genuinely enjoy coding and building apps.
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 ![Faker](https://img.shields.io/badge/Faker-Data_Generation-ff69b4?style=flat-square)
 ![Faker Contributor](https://img.shields.io/badge/Faker_Contributor-E37400?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### **Frameworks & UI Construction**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)

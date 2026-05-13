@@ -186,7 +186,9 @@ I genuinely enjoy coding and building apps.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge)
 ![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=for-the-badge&logo=kivy&logoColor=white)
+![Framework](https://img.shields.io/badge/framework-Reflex-7e61ff?logo=rocket&logoColor=white)
 
 </details>
 

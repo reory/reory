@@ -168,6 +168,7 @@ I genuinely enjoy coding and building apps.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-1E88E5?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Pillow-60b5ff?style=for-the-badge&logo=python&logoColor=white)
+![Graphviz](https://img.shields.io/badge/Graphviz-FF6600?style=for-the-badge&logo=graphviz&logoColor=white)
 
 ### **Automation, Scraping & Testing**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)

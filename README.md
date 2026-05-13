@@ -145,6 +145,7 @@ I genuinely enjoy coding and building apps.
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### **Network security**
 ![Scapy](https://img.shields.io/badge/Scapy-Packet_Crafting-blueviolet?style=for-the-badge&logo=scapy&logoColor=white)
@@ -161,6 +162,8 @@ I genuinely enjoy coding and building apps.
 ![RQ](https://img.shields.io/badge/RQ-FF0000?style=for-the-badge&logo=python&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-Embeddings-green?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 
 ### **Data Visualization & Graph Theory**
 ![NetworkX](https://img.shields.io/badge/NetworkX-v3.0+-0052CC?style=for-the-badge&logo=networkx&logoColor=white)

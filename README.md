@@ -10,17 +10,6 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 ---
 
-## Top 6 Projects
-[![RAG Library AI](https://img.shields.io/github/stars/reory/rag_library_ai?style=for-the-badge)](https://github.com/reory/rag_library_ai)
-[![Invoice Fraud Detector](https://img.shields.io/github/stars/reory/Invoice-Fraud-Detector-Service?style=for-the-badge)](https://github.com/reory/Invoice-Fraud-Detector-Service)
-[![NHS Performance Dashboard](https://img.shields.io/github/stars/reory/nhs-performance-dashboard?style=for-the-badge)](https://github.com/reory/nhs-performance-dashboard)
-[![UK Population Tracker](https://img.shields.io/github/stars/reory/uk-population-tracker?style=for-the-badge)](https://github.com/reory/uk-population-tracker)
-[![Pydescope](https://img.shields.io/github/stars/reory/Pydescope?style=for-the-badge)](https://github.com/reory/Pydescope)
-[![Finance App](https://img.shields.io/github/stars/reory/finance_app?style=for-the-badge)](https://github.com/reory/finance_app)
-
-
----
-
 ## 👨🏽‍🔬 I am currently working on
 - **Mini Embedding Explorer**
 - A business‑ready analytics tool that transforms raw text into visual insights.  

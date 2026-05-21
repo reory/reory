@@ -11,9 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Mini Embedding Explorer**
-- A business‑ready analytics tool that transforms raw text into visual insights.  
-Upload customer feedback, support tickets, policies, CVs, or any text dataset — the app generates embeddings, reduces them to 2D, clusters them, and reveals hidden patterns.
+- **OSINT Dashboard**
+- A powerful, full-stack Open Source Intelligence (OSINT) workstation that automates username footprinting across the web. The platform utilizes an asynchronous decoupled architecture to execute background investigations, stream network telemetry, and compile raw data into a clean, human-readable visual intelligence dossier.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 
 ---

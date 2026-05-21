@@ -170,6 +170,8 @@ I genuinely enjoy coding and building apps.
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 ![Faker](https://img.shields.io/badge/Faker-Data_Generation-ff69b4?style=flat-square)
 ![Faker Contributor](https://img.shields.io/badge/Faker_Contributor-E37400?style=for-the-badge&logo=github&logoColor=white)
+![Maigret Engine](https://img.shields.io/badge/Powered_By-Maigret-1e40af?style=plastic&logo=terminal&logoColor=white)
+![Hypothesis](https://img.shields.io/badge/Hypothesis-5A2DFF?logo=hypothesis&logoColor=white)
 
 </details>
 

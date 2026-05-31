@@ -22,11 +22,6 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 
 I contribute to the Python ecosystem because I believe the best way to master a tool is to help build it. I'm driven by a developer help mindset. Every PR is an opportunity to solve real-world problems for the global developer community.
 
-* **[joke2k/faker](https://github.com/joke2k/faker)**: 
-    * **Contribution:** Implemented the missing `bank()` provider for the `en_GB` locale.
-    * **Impact:** Enabled thousands of developers to generate localized, structurally accurate UK banking data for testing.
-    * **Status:** [Merged PR #2332](https://github.com/joke2k/faker/pull/2332)
-
 * **[ThomasBury/pyragify](https://github.com/ThomasBury/pyragify)**:
     * **Contribution:** Engineered an optimized YAML configuration for high-fidelity repository visualization (Text2Flow).
     * **Impact:** Reduced LLM context clutter and optimized RAG pipelines by scaling word-count limits to preserve complex flowchart grammars.

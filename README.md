@@ -38,6 +38,11 @@ I contribute to the Python ecosystem because I believe the best way to master a 
 section containing convenient shortcut commands for streamlining all common development tasks       and workflows.
     * **Status:** [Merged PR #271](https://github.com/rishabh0510rishabh/EnvForage/pull/271)
 
+* **[Aaryan2R](https://github.com/Aaryan2R/HomeVault/issues/5#event-26308366963)**:
+    * **Contribution:** Engineered a comprehensive automated test suite using Pytest covering core application lifecycle and security.
+    * **Impact:** Established a robust testing framework and updated project documentation, streamlining quality assurance for future contributors and securing critical features like authentication, file management, and role-based permissions.
+    * **Status:** [Merged PR #14](https://github.com/Aaryan2R/HomeVault/pull/14)
+
 </details>
 
 ---

@@ -43,6 +43,12 @@ section containing convenient shortcut commands for streamlining all common deve
     * **Impact:** Established a robust testing framework and updated project documentation, streamlining quality assurance for future contributors and securing critical features like authentication, file management, and role-based permissions.
     * **Status:** [Merged PR #14](https://github.com/Aaryan2R/HomeVault/pull/14)
 
+* **[qorexdevs](https://github.com/qorexdevs/quicksave/issues/19#event-26580212816)**:
+    * **Contribution:** Added a --limit N, added 2 test functions in the existing codebase.
+    * **Impact:** Added --limit argument: Implemented this to the list command, allowing users to view only the N most recent snapshots.
+Added Footer Summary: Included a dynamic footer that indicates when the list is capped - (e.g, showing 3 of 5 snapshots)
+    * **Status:** [Merged PR #20](https://github.com/qorexdevs/quicksave/pull/20)
+
 </details>
 
 ---

@@ -49,6 +49,11 @@ section containing convenient shortcut commands for streamlining all common deve
 Added Footer Summary: Included a dynamic footer that indicates when the list is capped - (e.g, showing 3 of 5 snapshots)
     * **Status:** [Merged PR #20](https://github.com/qorexdevs/quicksave/pull/20)
 
+* **[BiswasNehaa](https://github.com/BiswasNehaa/universal-academic-advisor/issues/1#issuecomment-4685680878)**:
+    * **Contribution:** Added two .JSON fields to career.json for the Universal Academic Advisor project.
+    * **Impact:** Maintains consistency with the existing JSON schema and formatting.
+    * **Status:** [Merged PR #5](https://github.com/BiswasNehaa/universal-academic-advisor/pull/5#pullrequestreview-4503530728)
+
 </details>
 
 ---

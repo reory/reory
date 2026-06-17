@@ -53,6 +53,11 @@ Added Footer Summary: Included a dynamic footer that indicates when the list is 
     * **Contribution:** Added two .JSON fields to career.json for the Universal Academic Advisor project.
     * **Impact:** Maintains consistency with the existing JSON schema and formatting.
     * **Status:** [Merged PR #5](https://github.com/BiswasNehaa/universal-academic-advisor/pull/5#pullrequestreview-4503530728)
+ 
+* **[nive62tech](https://github.com/nive62tech/promptlens/issues/8)**:
+    * **Contribution:** Implemented a keyboard shortcut to run evaluations quickly.
+    * **Impact:** Once implemented, improved usability and faster prompt testing.
+    * **Status:** [Merged PR #12](https://github.com/nive62tech/promptlens/pull/12#event-26868712957)
 
 </details>
 

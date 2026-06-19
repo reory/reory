@@ -65,7 +65,8 @@ Added Footer Summary: Included a dynamic footer that indicates when the list is 
 
 <details>
   <summary>🌿 I'm currently learning</summary>
-  
+
+- Rust programming language
 - PyMongo, MySQL and other backend service patterns
 - Advanced CLI design with menus and persistent data
 - Improving my testing capabilities with Pytest

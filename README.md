@@ -59,6 +59,11 @@ Added Footer Summary: Included a dynamic footer that indicates when the list is 
     * **Impact:** Once implemented, improved usability and faster prompt testing.
     * **Status:** [Merged PR #12](https://github.com/nive62tech/promptlens/pull/12#event-26868712957)
 
+  * **[lawtonsean1-dev](https://github.com/lawtonsean1-dev/deep-space-workstation/issues/1)**:
+    * **Contribution:** Brightened BLS Periodogram neon cyan line to #00ffff.
+    * **Impact:** Once implemented, Neon Colour is now showing in the Sensor Plots tab.
+    * **Status:** [Merged PR #3](https://github.com/lawtonsean1-dev/deep-space-workstation/pull/3)
+
 </details>
 
 ---

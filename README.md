@@ -11,8 +11,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Altair European Populations**
-- Bring Europe’s population data to life with a fully interactive, browser‑ready map powered by Python, Altair, and a custom JavaScript control layer. This project transforms static geo‑visualizations into a smooth, zoomable, pannable experience, paired with dynamic population analytics that update in sync with the map.
+- **Monai Medical Image Viewer**
+- The MONAI Medical Image Viewer is a desktop tool built for developers, students, and researchers who want a simple, fast, and visually polished way to inspect medical images.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 - Check out my lightweight library [![PyPI - timesaver](https://img.shields.io/badge/PyPI-timesaver-3775A9?style=flat&color=3775A9)](https://pypi.org/project/timesaver)
 

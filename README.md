@@ -174,6 +174,7 @@ I genuinely enjoy coding and building apps.
 ![Imbalanced-Learn](https://img.shields.io/badge/imblearn-Class_Imbalance-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-Lightweight_Pipelines-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/mongodb+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-Framework-blue?logo=monai)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

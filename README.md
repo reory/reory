@@ -181,6 +181,7 @@ I genuinely enjoy coding and building apps.
 ![NiBabel](https://img.shields.io/badge/NiBabel-Medical%20Imaging-green?logo=python)
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenPyxl](https://img.shields.io/badge/openpyxl-Excel_Automation-darkgreen?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
 ![PostGIS](https://img.shields.io/badge/PostGIS-3.x-green.svg)

@@ -171,6 +171,8 @@ I genuinely enjoy coding and building apps.
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-%2315DB95.svg?style=for-the-badge&logo=geopandas&logoColor=white)](https://geopandas.org/)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers_&_Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Imbalanced-Learn](https://img.shields.io/badge/imblearn-Class_Imbalance-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-Lightweight_Pipelines-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-Framework-blue?logo=monai)

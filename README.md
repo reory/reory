@@ -193,6 +193,7 @@ I genuinely enjoy coding and building apps.
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red.svg)](https://www.sqlalchemy.org/)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge)
+![xmltodict](https://img.shields.io/badge/xmltodict-XML_Parsing-brown?style=for-the-badge&logo=python&logoColor=white)
 
 
 * **UI, Visualisation & Automation**

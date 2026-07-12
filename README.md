@@ -210,6 +210,7 @@ I genuinely enjoy coding and building apps.
 [![Leaflet](https://img.shields.io/badge/Leaflet.js-1.9-green.svg)](https://leafletjs.com/)
 ![Maigret Engine](https://img.shields.io/badge/Powered_By-Maigret-1e40af?style=plastic&logo=terminal&logoColor=white)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+![Mimesis](https://img.shields.io/badge/Mimesis-Fake_Data_Generation-darkgreen?style=for-the-badge&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-v3.0+-0052CC?style=for-the-badge&logo=networkx&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-60b5ff?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white)

@@ -75,7 +75,6 @@ Added Footer Summary: Included a dynamic footer that indicates when the list is 
 - Rust programming language
 - PyMongo, MySQL and other backend service patterns
 - Advanced CLI design with menus and persistent data
-- Improving my testing capabilities with Pytest
 - Better UI/UX patterns in Python frameworks
 
 </details>

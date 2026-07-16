@@ -8,6 +8,7 @@ Python developer building polished apps, dashboards, and user-friendly tools.
 I'm transitioning into software development after years of real-world experience in logistics, data handling, and frontline services.
 Now I am focusing on creating clean and reliable Python applications that solve problems with thoughtful UI design and solid backend structure.
 
+![Profile Views](https://komarev.com/ghpvc/?username=reory&color=blue)
 ---
 
 ## 👨🏽‍🔬 I am currently working on

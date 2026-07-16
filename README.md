@@ -140,7 +140,7 @@ I genuinely enjoy coding and building apps.
 <details>
   <summary>🧰 Tech Stack</summary>
 
-<h3>⚙️ Backend & Core Web Frameworks</h3>
+  <h3>⚙️ Backend & Core Web Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Click-v8.0+-3DDC84?style=for-the-badge&logo=python&logoColor=white" alt="Click" />
   <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=shield&logoColor=white" alt="Cryptography" />
@@ -220,7 +220,16 @@ I genuinely enjoy coding and building apps.
   <img src="https://img.shields.io/badge/NetworkX-v3.0+-0052CC?style=for-the-badge&logo=networkx&logoColor=white" alt="NetworkX" />
   <img src="https://img.shields.io/badge/Pillow-60b5ff?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
-  <img src="
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Pydub-Audio_Processing-blue?style=for-the-badge&logo=python&logoColor=white" alt="Pydub" />
+  <img src="https://img.shields.io/badge/Powered%20by-Pygal-blue" alt="Pygal" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" alt="Pytest" />
+  <img src="https://img.shields.io/badge/PyVis-v0.3.0+-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="PyVis" />
+  <img src="https://img.shields.io/badge/Reflex-7e61ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Reflex" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge" alt="Tkinter" />
+</p>
 
 </details>
 

@@ -162,6 +162,7 @@ I genuinely enjoy coding and building apps.
   <img src="https://img.shields.io/badge/RQ-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="RQ" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/CLI-Typer-009485?style=flat-square&logo=python&logoColor=white)](https://typer.tiangolo.com/" alt="Typer" />
   <img src="https://img.shields.io/badge/uvicorn-2094f3?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" />
 </p>
 

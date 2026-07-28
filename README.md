@@ -230,6 +230,7 @@ I genuinely enjoy coding and building apps.
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/Textual-000000?style=flat&logo=python&logoColor=white)](https://github.com/Textualize/textual" alt="Textual" />
 </p>
 
 </details>

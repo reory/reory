@@ -12,8 +12,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **RoadEye-UK**
-- A real-time computer vision application using OpenCV and Convolutional Neural Networks (CNN) to detect and classify British traffic signs from a video feed.
+- **Missing_Person_Pattern_Analyser**
+- An analytical software suite and dynamic dashboard built with `Python` and `Reflex`. This system parses regional case data, executes algorithmic risk evaluations, and generates dynamic visualizations mapping missing person case patterns across the UK.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 - Check out my lightweight library [![PyPI - timesaver](https://img.shields.io/badge/PyPI-timesaver-3775A9?style=flat&color=3775A9)](https://pypi.org/project/timesaver)
 

@@ -66,6 +66,12 @@ Added Footer Summary: Included a dynamic footer that indicates when the list is 
     * **Impact:** Once implemented, Neon Colour is now showing in the Sensor Plots tab.
     * **Status:** [Merged PR #3](https://github.com/lawtonsean1-dev/deep-space-workstation/pull/3)
 
+   * **[Kushaljain-00](https://github.com/KushalJain-00/Kronos-Physics_Engine-/issues/24)**:
+    * **Contribution:** Added Docstrings to renderer.py in Kronos Physics Engine.
+    * **Impact:** Once implemented, improved documentation and code readability.
+    * **Status:** [Merged PR #26](https://github.com/KushalJain-00/Kronos-Physics_Engine-/pull/26#event-28793449789)
+  
+
 </details>
 
 ---

@@ -12,8 +12,9 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Missing_Person_Pattern_Analyser**
-- An analytical software suite and dynamic dashboard built with `Python` and `Reflex`. This system parses regional case data, executes algorithmic risk evaluations, and generates dynamic visualizations mapping missing person case patterns across the UK.
+- **Fracture-Gauge**
+- A Python-based Computer-Aided Detection (CAD) prototype designed for radiographs (X-rays). 
+It provides interactive calibration/measurement capabilities, diagnostic contrast enhancement, edge map extraction, and automated geometric fracture defect detection.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 - Check out my lightweight library [![PyPI - timesaver](https://img.shields.io/badge/PyPI-timesaver-3775A9?style=flat&color=3775A9)](https://pypi.org/project/timesaver)
 

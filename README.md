@@ -12,9 +12,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Bus_App**
-A full-stack transit app featuring a Django REST framework and a Multi-threaded Kivy mobile interface.
-A Reliable transit apps require robust front-end logic. I built this UK Bus App (v3) as a Proof of Concept to demonstrate a mobile-ready UI (Kivy) capable of processing transit data. To ensure a consistent demo experience without API rate-limiting, v3 utilizes a mocked data engine that simulates real-world bus arrivals.
+- **Web_Atlas**
+- WebAtlas is a Python-based technical SEO tool that transforms flat Screaming Frog Excel exports into dynamic, interactive network graphs. It allows SEOs to visualize internal linking structures, identify crawl depth issues, and discover topical silos that are invisible in standard spreadsheets.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 - Check out my lightweight library [![PyPI - timesaver](https://img.shields.io/badge/PyPI-timesaver-3775A9?style=flat&color=3775A9)](https://pypi.org/project/timesaver)
 

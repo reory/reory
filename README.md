@@ -12,8 +12,8 @@ Now I am focusing on creating clean and reliable Python applications that solve 
 ---
 
 ## 👨🏽‍🔬 I am currently working on
-- **Web_Atlas**
-- WebAtlas is a Python-based technical SEO tool that transforms flat Screaming Frog Excel exports into dynamic, interactive network graphs. It allows SEOs to visualize internal linking structures, identify crawl depth issues, and discover topical silos that are invisible in standard spreadsheets.
+- **Word_Counter_Vault**
+- A full-stack linguistic intelligence suite & forensic reporting tool. Features a "Dual-Engine" architecture (Django + DuckDB) for real-time text analysis, global etymology mapping, and persistent history storage.
 - I am also refining my existing apps with better UI Design, improved structure, and  more robust testing, including my HuggingFace-based app. [![Hugging Face Space](https://img.shields.io/badge/🤗%20HuggingFace-RAG%20App-blue)](https://reory-rag-library-ai.hf.space)
 - Check out my lightweight library [![PyPI - timesaver](https://img.shields.io/badge/PyPI-timesaver-3775A9?style=flat&color=3775A9)](https://pypi.org/project/timesaver)
 
